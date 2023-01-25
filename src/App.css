@@ -10,6 +10,26 @@
   color: rgb(0, 157, 255);
 }
 
+.col1 {
+  text-align: left
+}
+
+.col2 {
+  text-align: right
+}
+
+.col3 {
+  text-align: left
+}
+
+.col4 {
+  text-align: right
+}
+
+.col5 {
+  text-align: left
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
