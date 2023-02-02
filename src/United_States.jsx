@@ -27,8 +27,6 @@ function United_States() {
           <br />
         </div>
         <div className='col2'>
-          <a href="https://hidot.hawaii.gov/highways/roadwork">Hawaii</a>
-          <br />
           <a href="https://511.idaho.gov">Idaho</a>
           <br />
           <a href="https://www.gettingaroundillinois.com/WinterConditions/index.html">Illinois</a>
