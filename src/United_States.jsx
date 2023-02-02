@@ -7,7 +7,7 @@ function United_States() {
         <div className='col1'>
           <a href="https://www.dot.state.al.us/maps.html">Alabama</a>
           <br />
-          <a href="https://dot.alaska.gov/">Alaska</a>
+          <a href="https://511.alaska.gov/">Alaska</a>
           <br />
           <a href="https://www.az511.com">Arizona</a>
           <br />
@@ -15,103 +15,103 @@ function United_States() {
           <br />
           <a href="https://roads.dot.ca.gov/">California</a>
           <br />
-          <a href="https://www.cotrip.org">Colorado</a>
+          <a href="https://maps.cotrip.org/@-106.34053,39.2679,8?show=winterDriving,roadReports,plowLocations,weatherRadar,weatherWarnings,chainLaws">Colorado</a>
           <br />
-          <a href="https://">Connecticut</a>
+          <a href="https://ctroads.org/">Connecticut</a>
           <br />
-          <a href="https://">Delaware</a>
+          <a href="https://www.deldot.gov/map/">Delaware</a>
           <br />
-          <a href="https://">Florida</a>
+          <a href="https://fl511.com/">Florida</a>
           <br />
-          <a href="https://">Georgia</a>
+          <a href="https://511ga.org">Georgia</a>
           <br />
         </div>
         <div className='col2'>
-          <a href="https://">Hawaii</a>
+          <a href="https://hidot.hawaii.gov/highways/roadwork">Hawaii</a>
           <br />
-          <a href="https://">Idaho</a>
+          <a href="https://511.idaho.gov">Idaho</a>
           <br />
-          <a href="https://">Illinois</a>
+          <a href="https://www.gettingaroundillinois.com/WinterConditions/index.html">Illinois</a>
           <br />
-          <a href="https://">Indiana</a>
+          <a href="https://511in.org">Indiana</a>
           <br />
-          <a href="https://">Iowa</a>
+          <a href="https://www.511ia.org">Iowa</a>
           <br />
-          <a href="https://">Kansas</a>
+          <a href="https://www.kandrive.org">Kansas</a>
           <br />
-          <a href="https://">Kentucky</a>
+          <a href="https://goky.ky.gov/">Kentucky</a>
           <br />
-          <a href="https://">Louisiana</a>
+          <a href="https://www.511la.org">Louisiana</a>
           <br />
-          <a href="https://">Maine</a>
+          <a href="https://newengland511.org">Maine</a>
           <br />
-          <a href="https://">Maryland</a>
+          <a href="https://chart.maryland.gov/InteractiveMap/GetInteractiveMap">Maryland</a>
           <br />
         </div>
         <div className='col3'>
-          <a href="https://">Massachusetts</a>
+          <a href="https://www.mass511.com">Massachusetts</a>
           <br />
-          <a href="https://">Michigan</a>
+          <a href="https://mdotjboss.state.mi.us/MiDrive/map">Michigan</a>
           <br />
-          <a href="https://">Minnesota</a>
+          <a href="https://511mn.org">Minnesota</a>
           <br />
-          <a href="https://">Mississippi</a>
+          <a href="https://www.mdottraffic.com/default.aspx?showMain=true">Mississippi</a>
           <br />
-          <a href="https://">Missouri</a>
+          <a href="https://traveler.modot.org/map">Missouri</a>
           <br />
-          <a href="https://">Montana</a>
+          <a href="https://www.511mt.net">Montana</a>
           <br />
-          <a href="https://">Nebraska</a>
+          <a href="https://new.511.nebraska.gov/@-101.38885,41.73038,7?show=roadReports,constructionReports,wazeReports,winterDriving,stationsAlert,weatherWarningsAreaEvents,weatherRadar">Nebraska</a>
           <br />
-          <a href="https://">Nevada</a>
+          <a href="https://nvroads.com">Nevada</a>
           <br />
-          <a href="https://">New Hampshire</a>
+          <a href="https://newengland511.org">New Hampshire</a>
           <br />
-          <a href="https://">New Jersey</a>
+          <a href="https://511nj.org">New Jersey</a>
           <br />
         </div>
         <div className='col4'>
-          <a href="https://">New Mexico</a>
+          <a href="https://www.nmroads.com">New Mexico</a>
           <br />
-          <a href="https://">New York</a>
+          <a href="https://www.511ny.org">New York</a>
           <br />
-          <a href="https://">North Carolina</a>
+          <a href="https://drivenc.gov">North Carolina</a>
           <br />
-          <a href="https://">North Dakota</a>
+          <a href="https://www.dot.nd.gov/travel">North Dakota</a>
           <br />
-          <a href="https://">Ohio</a>
+          <a href="https://www.ohgo.com">Ohio</a>
           <br />
-          <a href="https://">Oklahoma</a>
+          <a href="https://okroads.org">Oklahoma</a>
           <br />
-          <a href="https://">Oregon</a>
+          <a href="https://www.tripcheck.com">Oregon</a>
           <br />
-          <a href="https://">Pennsylvania</a>
+          <a href="https://www.511pa.com">Pennsylvania</a>
           <br />
-          <a href="https://">Rhode Island</a>
+          <a href="https://www.dot.ri.gov/travel">Rhode Island</a>
           <br />
-          <a href="https://">South Carolina</a>
+          <a href="https://www.511sc.org">South Carolina</a>
           <br />
         </div>
         <div className='col5'>
-          <a href="https://">South Dakota</a>
+          <a href="https://www.sd511.org">South Dakota</a>
           <br />
-          <a href="https://">Tennessee</a>
+          <a href="https://smartway.tn.gov/traffic?features=incident,traffic">Tennessee</a>
           <br />
-          <a href="https://">Texas</a>
+          <a href="https://drivetexas.org">Texas</a>
           <br />
-          <a href="https://">Utah</a>
+          <a href="https://udottraffic.utah.gov">Utah</a>
           <br />
-          <a href="https://">Vermont</a>
+          <a href="https://newengland511.org">Vermont</a>
           <br />
-          <a href="https://">Virginia</a>
+          <a href="https://www.511virginia.org">Virginia</a>
           <br />
-          <a href="https://">Washington</a>
+          <a href="https://wsdot.com/travel/real-time/">Washington</a>
           <br />
-          <a href="https://">West Virginia</a>
+          <a href="https://www.wv511.org">West Virginia</a>
           <br />
-          <a href="https://">Wisconsin</a>
+          <a href="https://511wi.gov">Wisconsin</a>
           <br />
-          <a href="https://">Wyoming</a>
+          <a href="https://www.wyoroad.info">Wyoming</a>
           <br />
         </div>
       </div>
