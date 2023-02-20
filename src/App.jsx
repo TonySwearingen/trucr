@@ -1,7 +1,6 @@
 import './App.css';
 import UNITED_STATES from './United_States';
-// import ROAD_COND from './Road_Cond';
-import CANADAMEX from './Canada_Mex';
+import CANADA_MEX from './Canada_Mex';
 
 function App() {
   return (
@@ -13,9 +12,7 @@ function App() {
           <h6>© 01/22/2023</h6>
       
       <UNITED_STATES />
-      <CANADAMEX />
-      <br />
-      {/* <ROAD_COND /> */}
+      <CANADA_MEX />
       </header>
     </div>
   );
