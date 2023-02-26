@@ -1,6 +1,7 @@
 import './App.css';
 import UNITED_STATES from './United_States';
 import CANADA_MEX from './Canada_Mex';
+import AdAPI from './AdAPI';
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
       
       <UNITED_STATES />
       <CANADA_MEX />
+      <br />
+      <AdAPI />
       </header>
     </div>
   );
